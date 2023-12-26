@@ -1,9 +1,9 @@
 # instalasi
-##membuka
+membuka
 ```
 Php artisan serve
 ```
-#migrasi database
+migrasi database
 ```
 Php artisan migrate
 ```
