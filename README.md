@@ -1,3 +1,6 @@
+# web template
+uji.html
+![alt text](?raw=true)
 # instalasi
 jangan menggunakan penerjemah halaman untuk hasil maksimal
 ## jika ingin menggunakn git
