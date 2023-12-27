@@ -1,6 +1,6 @@
 # cara menggunduh file zip dan composernya
 tekan file Zip/composer nya kemudian tekan view file(view raw)kemudian save
-# web template uji.html
+# web template menggunakan card uji.html
 ![alt text](https://github.com/rusdy-cyber/web/blob/main/1.png?raw=true)
 # instalasi
 jangan menggunakan penerjemah halaman untuk hasil maksimal
