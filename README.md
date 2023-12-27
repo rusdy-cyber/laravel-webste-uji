@@ -35,7 +35,7 @@ composer create-project laravel/laravel="10.*" .
 - buka cmd dan pilih lokasi disk yang ingin di gunakan
 - :D untuk pindah disk
 ```
-:D
+D:
 ```
 - dir untuk melihat isi derektori
 ```
