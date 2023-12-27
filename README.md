@@ -1,10 +1,10 @@
 # instalasi
-membuat proyek di dalam file
--buka visual open folder yang sudah di buat kemudian buka terminal visual dengan menekan
+membuat proyek di dalam file pertama buat file kemudian
+buka visual open folder yang sudah di buat kemudian buka terminal visual dengan menekan
 ```
 ctrl + `
 ```
--selanjutnya masukkan perintah ini untuk meng crate laravelnya
+- selanjutnya masukkan perintah ini untuk meng crate laravelnya
 ```
 composer create-project laravel/laravel="10.*" .
 ```
