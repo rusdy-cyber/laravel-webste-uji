@@ -1,5 +1,5 @@
 # cara menggunduh file zipnya
-tekan file Zip nya kemudian view file kemudian save
+tekan file Zip nya kemudian view file(view raw)kemudian save
 # web template uji.html
 ![alt text](https://github.com/rusdy-cyber/web/blob/main/1.png?raw=true)
 # instalasi
