@@ -9,15 +9,30 @@ ctrl + `
 ```
 composer create-project laravel/laravel="10.*" .
 ```
-membuka
+membuka di broswer
 ```
 Php artisan serve
 ```
 membuat controler
+- cara pertama di terminal
 ```
 php artisan make:controller LoginRegisterController
 ```
+- cara kedua tekan pada kyboard
+```
+ctrl+shift+p
+```
+- kemudian tekan pada colom
+- lalu tuliskan nama controlernya kemudian enter dan pilih opsi basik
+```
+Artisan:Make Controller
+```
 migrasi database
+- di sarankan lengkapi data pada seder baru melakukan migrasi dan di iringi migrasi sederr untuk meningkatkan keberhailaan
 ```
 Php artisan migrate
+```
+menjalankan seder untuk mengisi data dami
+```
+db:seed -–class=UserSeeder
 ```
