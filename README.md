@@ -3,6 +3,7 @@ tekan file Zip/composer nya kemudian tekan view file(view raw)kemudian save
 # web template menggunakan card uji.html
 ![alt text](https://github.com/rusdy-cyber/web/blob/main/1.png?raw=true)
 # instalasi
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 jangan menggunakan penerjemah halaman untuk hasil maksimal
 ## jika ingin menggunakn git
 ```
