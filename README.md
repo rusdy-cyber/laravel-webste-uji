@@ -1,4 +1,5 @@
 # instalasi
+jangan menggunakan penerjemah halaman untuk hasil maksimal
 ## jika ingin menggunakn git
 ```
 git clone https://github.com/rusdy-cyber/web.git
