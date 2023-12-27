@@ -1,3 +1,5 @@
+# cara menggunduh file zipnya
+![alt text](https://github.com/rusdy-cyber/web/blob/main/2.png?raw=true)
 # web template uji.html
 ![alt text](https://github.com/rusdy-cyber/web/blob/main/1.png?raw=true)
 # instalasi
