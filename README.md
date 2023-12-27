@@ -1,5 +1,6 @@
 # cara menggunduh file zip dan composernya
 tekan file Zip/composer nya kemudian tekan view file(view raw)kemudian save
+## [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 # web template menggunakan card uji.html
 ![alt text](https://github.com/rusdy-cyber/web/blob/main/1.png?raw=true)
 # instalasi
