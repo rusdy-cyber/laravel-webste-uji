@@ -24,6 +24,25 @@ ctrl + `
 ```
 composer create-project laravel/laravel="10.*" .
 ```
+## membuat proyek di dalam terminal
+- buka cmd dan pilih lokasi disk yang ingin di gunakan
+- :D untuk pindah disk
+```
+:D
+```
+- dir untuk melihat isi derektori
+```
+dir
+```
+- cd untuk pindah deektori
+```
+cd
+```
+- masukkan perintahnya
+- dan open file pada visual
+```
+composer create-prject laravel/laravel nama_projeknya
+```
 membuka di broswer
 ```
 Php artisan serve
