@@ -1,4 +1,18 @@
 # instalasi
+## jika ingin menggunakn git
+```
+git clone https://github.com/Rusdy-cyber/web
+```
+## plagin yang di buthkan
+- laravel artisan
+- Laravel namespace
+- Laravel blade snippets
+- Laravel blade spacer
+- Laravel goto controller
+- Laravel goto view
+- Laravel snippets
+- Prettier-code formatter
+- Laravel blade formatter
 ## membuat proyek di dalam file 
 - pertama buat file kemudian
 - buka visual open folder yang sudah di buat kemudian buka terminal visual dengan menekan
@@ -35,4 +49,8 @@ Php artisan migrate
 menjalankan seder untuk mengisi data dami
 ```
 db:seed -–class=UserSeeder
+```
+membuat cek level atau midwalre
+```
+php artisan make:middlewareCheckLevel
 ```
