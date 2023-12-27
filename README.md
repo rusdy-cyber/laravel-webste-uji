@@ -7,7 +7,7 @@ tekan file Zip/composer nya kemudian tekan view file(view raw)kemudian save
 jangan menggunakan penerjemah halaman untuk hasil maksimal
 ## [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/rusdy-cyber/web/issues/new) 
 ## jika ingin menggunakn git
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Rusdy-cyber/)  [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)  [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 ```
 git clone https://github.com/rusdy-cyber/web.git
 ```
