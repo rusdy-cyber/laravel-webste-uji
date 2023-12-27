@@ -1,4 +1,3 @@
-# [![Generic badge](https://img.shields.io/badge/<web template>-<uji.html>-<COLOR>.svg)](https://shields.io/)
 # web template uji.html
 ![alt text](https://github.com/rusdy-cyber/web/blob/main/1.png?raw=true)
 # instalasi
