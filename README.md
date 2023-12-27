@@ -1,6 +1,6 @@
 # web template
 uji.html
-![alt text](?raw=true)
+![alt text](https://github.com/rusdy-cyber/web/blob/main/11.png?raw=true)
 # instalasi
 jangan menggunakan penerjemah halaman untuk hasil maksimal
 ## jika ingin menggunakn git
