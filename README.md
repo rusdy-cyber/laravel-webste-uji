@@ -1,7 +1,7 @@
 # instalasi
 ## jika ingin menggunakn git
 ```
-git clone https://github.com/Rusdy-cyber/web
+git clone https://github.com/rusdy-cyber/web.git
 ```
 ## plagin yang di buthkan
 - laravel artisan
