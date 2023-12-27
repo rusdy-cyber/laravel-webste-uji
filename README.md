@@ -1,5 +1,5 @@
 # web template
-uji.html
+- uji.html
 ![alt text](https://github.com/rusdy-cyber/web/blob/main/11.png?raw=true)
 # instalasi
 jangan menggunakan penerjemah halaman untuk hasil maksimal
