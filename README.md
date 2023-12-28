@@ -1,5 +1,8 @@
-# file template.zip
+# pilih salah satu file zip coding laravelnya rekom perpustakaan.rar
+## file template.zip
 merupakan template website perpustakaan buku menggunakan laravel dengan autentikasi login admin dan user
+## file perpustakaan.rar
+merupakan template website wisata menggnakan laravel 10 tanpa autentikasi user (masih eror)
 # cara menggunduh file zip dan composernya
 tekan file Zip/composer nya kemudian tekan view file(view raw)kemudian save
 ## [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)  [![Github Releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.0.0/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
