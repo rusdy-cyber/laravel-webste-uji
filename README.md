@@ -1,4 +1,5 @@
 # pilih salah satu file zip coding laravelnya rekom perpustakaan.rar
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![PyPI format](https://img.shields.io/pypi/format/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ## file template.zip
 merupakan template website perpustakaan buku menggunakan laravel dengan autentikasi login admin dan user
 ## file perpustakaan.rar
