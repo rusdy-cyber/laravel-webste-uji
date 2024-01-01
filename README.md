@@ -74,6 +74,10 @@ ctrl+shift+p
 ```
 Artisan:Make Controller
 ```
+membuat model
+```
+php artisan make:model NamaModel
+```
 migrasi database
 - di sarankan lengkapi data pada seder baru melakukan migrasi dan di iringi migrasi sederr untuk meningkatkan keberhailaan
 ```
