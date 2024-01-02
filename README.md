@@ -3,7 +3,7 @@
 https://github.com/RifkiCS29/laravel-crud
 ```
 # ini tidak pakai login
-salin kemudian temple pada web broswer kemudian unduh
+salin kemudian temple pada web broswer kemudian unduh/ unduh di atas laravel 10
 ```
 https://github.com/SantriKoding-com/CRUD-Laravel-10
 ```
