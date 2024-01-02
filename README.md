@@ -2,6 +2,10 @@
 ```
 https://github.com/RifkiCS29/laravel-crud
 ```
+# ini tidak pakai login
+```
+https://github.com/SantriKoding-com/CRUD-Laravel-10
+```
 # pilih salah satu file zip coding laravelnya rekom perpustakaan.rar
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![PyPI format](https://img.shields.io/pypi/format/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 ## file template.zip
