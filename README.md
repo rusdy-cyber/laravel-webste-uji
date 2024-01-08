@@ -94,7 +94,8 @@ Php artisan migrate
 ```
 menjalankan seder untuk mengisi data dami
 ```
-db:seed -–class=UserSeeder
+php artisan db:seed --class=UserSeeder
+
 ```
 membuat cek level atau midwalre
 ```
