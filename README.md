@@ -97,6 +97,10 @@ menjalankan seder untuk mengisi data dami
 php artisan db:seed --class=UserSeeder
 
 ```
+```
+php artisan storage:link
+
+```
 membuat cek level atau midwalre
 ```
 php artisan make:middlewareCheckLevel
